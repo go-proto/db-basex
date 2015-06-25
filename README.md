@@ -1,4 +1,4 @@
-go-basex
+db-basex
 ========
 
 Basic BaseX Client implementation for Go language (Golang)
@@ -10,7 +10,7 @@ package main
 
 import (
 	//"fmt"
-	"github.com/programaths/basex"
+	"github.com/go-proto/db-basex"
 )
 
 func main() {
